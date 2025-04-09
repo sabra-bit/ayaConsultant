@@ -1,2 +1,2 @@
 streamlit == 1.27
-pandas
+pandas == 2.2.2
